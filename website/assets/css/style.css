@@ -1,12 +1,13 @@
-body{
+body {
     background: #BDBDBD;
 }
 
 .jumbotron {
-    background-image: url(../img/bg.jpg);
-    background-size: cover;
-    height: 100%;
+
+
+
 }
+
 body {
     background-color: white;
 }
@@ -34,6 +35,8 @@ body {
 
 .image-section img {
     border-radius: 50%;
-    width: 200px; /* Ajusta el tamaño de la imagen según lo necesites */
-    height: 200px; /* Ajusta el tamaño de la imagen según lo necesites */
+    width: 200px;
+    /* Ajusta el tamaño de la imagen según lo necesites */
+    height: 200px;
+    /* Ajusta el tamaño de la imagen según lo necesites */
 }
