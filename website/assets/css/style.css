@@ -7,3 +7,33 @@ body{
     background-size: cover;
     height: 100%;
 }
+body {
+    background-color: white;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.text-section h1 {
+    font-size: 2em;
+}
+
+.text-section p {
+    font-size: 1em;
+}
+
+.black {
+    color: black;
+}
+
+.grey {
+    color: grey;
+}
+
+.image-section img {
+    border-radius: 50%;
+    width: 200px; /* Ajusta el tamaño de la imagen según lo necesites */
+    height: 200px; /* Ajusta el tamaño de la imagen según lo necesites */
+}
