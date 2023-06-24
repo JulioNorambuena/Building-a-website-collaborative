@@ -2,11 +2,7 @@ body {
     background: #BDBDBD;
 }
 
-.jumbotron {
 
-
-
-}
 
 body {
     background-color: white;
@@ -39,4 +35,8 @@ body {
     /* Ajusta el tamaño de la imagen según lo necesites */
     height: 200px;
     /* Ajusta el tamaño de la imagen según lo necesites */
+}
+
+.tagline {
+    height: 40rem;
 }
