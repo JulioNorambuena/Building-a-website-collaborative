@@ -37,7 +37,6 @@ body {
     /* Ajusta el tamaño de la imagen según lo necesites */
 }
 
-.jumbotron {
-    background-image: url("../website/assets/img/bg.jpg");
-    background-size: cover;
-  }
+.tagline {
+    height: 40rem;
+}
