@@ -2,11 +2,7 @@ body {
     background: #BDBDBD;
 }
 
-.jumbotron {
 
-
-
-}
 
 body {
     background-color: white;
@@ -40,3 +36,8 @@ body {
     height: 200px;
     /* Ajusta el tamaño de la imagen según lo necesites */
 }
+
+.jumbotron {
+    background-image: url("../website/assets/img/bg.jpg");
+    background-size: cover;
+  }
